@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bet the Retz1</string>
+    <string name="bet_the_retz">Bet the Retz</string>
+    <string name="bet_the_retz">Bet the Retz</string>
+    <string name="how_to_bet">How To Bet</string>
+    <string name="promos">Promos</string>
+    <string name="suns">Suns</string>
+    <string name="cubs">Cubs</string>
+    <string name="your_bet">Your Bet</string>
+    <string name="ret_s_bet">Ret\'s Bet</string>
+    <string name="mavericks">Mavericks</string>
+    <string name="suns">Suns</string>
+    <string name="cardinals">Cardinals</string>
+    <string name="all_sports">All Sports</string>
+    <string name="account">Account</string>
+    <string name="my_bets">My Bets</string>
+    <string name="home">Home</string>
+</resources>
